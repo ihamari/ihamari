@@ -1,8 +1,7 @@
 <h1 align="center">It’s-a me, Mari! 🍄⭐🎮</h1>
 
 <p align="center">
-Desenvolvedora Front-End apaixonada por transformar ideias em interfaces incríveis. 🎨💻  
-Curiosa, criativa e em constante evolução no mundo da tecnologia. 🚀
+Desenvolvedora Full Stack em transição de carreira, apaixonada por tecnologia e design.
 </p>
 
 <p align="center">
