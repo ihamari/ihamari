@@ -48,6 +48,9 @@ Desenvolvedora Full Stack em transição de carreira, apaixonada por tecnologia 
 [🔗 Front-End](https://github.com/WinxTechGirls/fitlife) | [🔗 Back-End](https://github.com/WinxTechGirls/aplicativo-fitness)
 
 ---
+- 💻 [**BlogPessoal** – Aplicação para postagens simples](https://blogpessoal-projeto-react-git-main-marianas-projects-864d226b.vercel.app/) <br>
+[🔗 Front-End](https://github.com/ihamari/blogpessoal-projeto-react) | [🔗 Back-End](https://github.com/ihamari/GENERATION-bloco2-Spring-blogPessoal)
+
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/ihamari/)
