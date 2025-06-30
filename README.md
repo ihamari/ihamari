@@ -21,8 +21,6 @@ Desenvolvedora Full Stack em transição de carreira, apaixonada por tecnologia 
 </p>
 
 ## 💻 Sobre Mim:
-<br>
-<img align="right" src="https://64.media.tumblr.com/13aa123e368277e924204a590761b3e8/9203134bcb94f388-33/s500x750/e28566094ee7d8e5d4b4043091f7796c3e86d0ab.gif"/>
 
 - 🎓 Formação em Engenharia Civil e atualmente cursando **Análise e Desenvolvimento de Sistemas** EAD na PUC-Minas.
 - 🧠 Finalizei o bootcamp Full Stack Java/React na **Generation Brasil**.
