@@ -22,12 +22,8 @@ Desenvolvedora Full Stack em transição de carreira, apaixonada por tecnologia 
 
 ## 💻 Sobre Mim:
 
-- 🎓 Formação em Engenharia Civil e atualmente cursando **Análise e Desenvolvimento de Sistemas** EAD na PUC-Minas.
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas e atualmente cursando **Computação Quântica** EAD no SENAI CIMATEC.
 - 🧠 Finalizei o bootcamp Full Stack Java/React na **Generation Brasil**.
-- 💡 Apaixonada por desenvolvimento Front-End, design de interfaces e usabilidade.
-- 🔍 Tenho conhecimentos em **Arquitetura MVC**, **SQL Server** e também em **UX Design** (princípios básicos de usabilidade e experiência do usuário).
-- 🎯 Focada em desenvolvimento de projetos que unam código limpo, boas práticas e uma ótima experiência para o usuário.
-
 <br>
 
 ### Arquitetura e Práticas
