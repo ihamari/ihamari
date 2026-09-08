@@ -49,6 +49,6 @@ Desenvolvedora Full Stack em transição de carreira, apaixonada por tecnologia 
 
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/ihamari/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariana-marie-iha/)
 - 📧 E-mail: ihamariana@gmail.com
 
